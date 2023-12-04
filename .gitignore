@@ -1,0 +1,4 @@
+./inputs/
+*input.txt
+zig-out
+zig-cache
